@@ -1,2 +1,2 @@
 # EV-intelligence-battery-analytics
-EV Battery Intelligence and Analytics Platform using Machine Learning
+A machine learning–based EV battery intelligence platform for State of Health, degradation, energy consumption, and range prediction, with a focus on data-driven battery analytics.
